@@ -224,7 +224,7 @@ This project was completed as part of a data wrangling course, demonstrating pro
 
 ## Author
 
-**cchitse** (Jason C)/ Joanna Chen
+**cchitse** (Jason C)
 
 ## Acknowledgments
 
@@ -234,8 +234,8 @@ This project was completed as part of a data wrangling course, demonstrating pro
 
 ## References
 
-- USDA Economic Research Service. (2023). Food Access Research Atlas.
-- CORGIS Dataset Project. County Demographics
-- CORGIS Dataset Project. Food Nutrition
-- Howisonlab tutorials for pandas methodology (howisonlab.github.io)
+- USDA Economic Research Service. (2023). [Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/).
+- CORGIS Dataset Project. [County Demographics](https://corgis-edu.github.io/corgis/csv/county_demographics/).
+- CORGIS Dataset Project. [Food Nutrition](https://corgis-edu.github.io/corgis/csv/food_nutrition/).
+- Howisonlab tutorials for pandas methodology ([howisonlab.github.io](https://howisonlab.github.io/)).
 
